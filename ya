@@ -62,6 +62,7 @@
         <a href="#about">闇バイトとは</a>
         <a href="#dangers">リスクと危険性</a>
         <a href="#resources">リソースとサポート</a>
+        <a href="#examples">実例</a>
     </nav>
     <div class="container">
         <div id="home" class="content">
@@ -79,6 +80,15 @@
         <div id="resources" class="content">
             <h2>リソースとサポート</h2>
             <p>闇バイトから抜け出すためのリソースやサポートを提供します。警察や支援団体に相談することが重要です。</p>
+        </div>
+        <div id="examples" class="content">
+            <h2>実例</h2>
+            <ul>
+                <li>詐欺電話をかける仕事：高齢者をターゲットにしてお金を騙し取る。</li>
+                <li>違法薬物の運搬：報酬は高いが、逮捕されるリスクが非常に高い。</li>
+                <li>盗難：特定の場所から物を盗む仕事。</li>
+                <li>偽造品の販売：偽ブランド品や偽造パスポートの販売。</li>
+            </ul>
         </div>
     </div>
     <footer>
